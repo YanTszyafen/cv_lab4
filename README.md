@@ -18,6 +18,7 @@
 * Архитектура - **SurroundNet** [("SurroundNet: Towards effective low-light image enhancement")](https://linkinghub.elsevier.com/retrieve/pii/S0031320323003035)
 * Оптимизатор - Adam, 50 эпох, batch size = 4, learning rate = 1e-5. 
 * На обработку одного изображения у нашего решения уходит 0.11 (мс).
+
 |PSNR|SSIM|LPIPS|
 :---:|:---:|:---:
 6.10|0.036|0.78
