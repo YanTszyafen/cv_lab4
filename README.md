@@ -15,7 +15,7 @@
 * [LPIPS](https://github.com/richzhang/PerceptualSimilarity#c-about-the-metric) - Learned Perceptual Image Patch Similarity.  
 
 ## Результаты
-* Архитектура - **SurroundNet** ["SurroundNet: Towards effective low-light image enhancement"](https://linkinghub.elsevier.com/retrieve/pii/S0031320323003035)
+* Архитектура - **SurroundNet** [("SurroundNet: Towards effective low-light image enhancement")](https://linkinghub.elsevier.com/retrieve/pii/S0031320323003035)
 * Оптимизатор - Adam, 50 эпох, batch size = 4, learning rate = 1e-5. 
 * На обработку одного изображения у нашего решения уходит 0.11 (мс).
 |PSNR|SSIM|LPIPS|
