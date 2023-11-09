@@ -21,7 +21,7 @@
 
 |PSNR|SSIM|LPIPS|
 :---:|:---:|:---:
-18.59|18.59|0.13
+18.59|0.82|0.13
 
 ![image](https://github.com/YanTszyafen/cv_lab4/assets/41192330/04fa602c-a2fc-4da7-8807-9d1ee0f00c83)
 
